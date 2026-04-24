@@ -1,0 +1,16 @@
+Algoritmo MAYOR DE EDAD 
+	
+	DEFINIR E COMO ENTERO 
+	
+	ESCRIBIR " INGRESA TU EDAD: " 
+	LEER E
+	SI E >= 18 ENTONCES 
+		
+		ESCRIBIR "MAYOR EDAD"
+		LEER E 
+		
+	SINO
+		ESCRIBIR "MENOR EDAD "
+		
+	FinSi
+FinAlgoritmo
